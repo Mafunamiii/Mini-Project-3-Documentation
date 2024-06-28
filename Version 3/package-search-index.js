@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jahnreil_stratpoint"},{"l":"com.jahnreil_stratpoint.controller"},{"l":"com.jahnreil_stratpoint.model"},{"l":"com.jahnreil_stratpoint.service"},{"l":"com.jahnreil_stratpoint.util"}];updateSearchResults();
